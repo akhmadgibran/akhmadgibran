@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-
-**lieeh/lieeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+You can call me Lie!
 
 - 🔭 I’m currently Studying at State Polytechnic of Malang
 - 🌱 I’m currently learning Python, and Golang
