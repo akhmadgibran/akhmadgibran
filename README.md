@@ -6,4 +6,4 @@ You can call me Lie!
 - 💬 Ask me about Code, Games, Anime, and Manga
 - 📫 How to reach me: puffsoldier(Discord)
 
-[![Top Langs](https://github-readme-stats-inky-five-57.vercel.app//api/top-langs/?username=lieeh)](https://github.com/lieeh/github-readme-stats)
+[![Top Langs](https://github-readme-stats-inky-five-57.vercel.app//api/top-langs/?username=lieeh&layout=compact&theme=radical)](https://github.com/lieeh/github-readme-stats)
