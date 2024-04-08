@@ -6,3 +6,4 @@ You can call me Lie!
 - 💬 Ask me about Code, Games, Anime, and Manga
 - 📫 How to reach me: puffsoldier(Discord)
 
+[![Anurag's GitHub stats](https://github-readme-stats-inky-five-57.vercel.app//api?username=lieeh)](https://github.com/lieeh/github-readme-stats)
