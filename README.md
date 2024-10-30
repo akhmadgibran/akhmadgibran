@@ -7,7 +7,7 @@
 You can call me Wylie or Nabil!
 
 - 🌱 I’m currently learning to become Full-Stack Web Developer
-- 💬 Ask me about Code, Games, Anime, and Manga
+- 💬 Ask me about Code, Games, and Manga
 - 📫 How to reach me: earlwylie(Discord)
 
 <br/>
