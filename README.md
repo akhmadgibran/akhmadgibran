@@ -6,4 +6,4 @@ You can call me Wylie or Nabil!
 - 📫 How to reach me: earlwylie(Discord)
 
 
-[![Top Langs](https://github-readme-stats-inky-five-57.vercel.app//api/top-langs/?username=earlwyl&layout=compact&theme=radical)](https://github.com/lieeh/github-readme-stats)
+[![Top Langs](https://github-readme-stats-inky-five-57.vercel.app//api/top-langs/?username=earlwyl&layout=compact&theme=radical)](https://github.com/earlwyl/github-readme-stats)
