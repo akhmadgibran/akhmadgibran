@@ -21,8 +21,8 @@ You can call me Wylie or Nabil!
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nodejs,express,react,nextjs,laravel,go" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,go" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nodejs,express,react,nextjs,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
 </div>
 
