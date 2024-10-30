@@ -20,8 +20,10 @@ You can call me Wylie or Nabil!
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,react,nextjs,mysql,go" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nodejs,express,react,nextjs,laravel,go" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
 </div>
 
 <h2 align="center"> Stats </h2>
