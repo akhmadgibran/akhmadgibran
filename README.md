@@ -1,3 +1,9 @@
+
+
+![earlwyl banner](./img/banner.png)
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=earlwyl.earlwyl" />
 
 
@@ -32,4 +38,10 @@ You can call me Wylie or Nabil!
 [![Top Langs](https://github-readme-stats-inky-five-57.vercel.app//api/top-langs/?username=earlwyl&layout=compact&theme=radical)](https://github.com/earlwyl/github-readme-stats)
 
 </div>
+
+<p align="center">
+Banner by <a href="https://unsplash.com/@thainos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Em Thain</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-bush-with-leaves-and-flowers-SnoUxdmw7cY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+</p>
+
+  
 
