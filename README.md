@@ -4,7 +4,7 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=earlwyl.earlwyl" />
+
 
 
 <div align=center>
@@ -42,6 +42,8 @@ You can call me Wylie or Nabil!
 <p align="center">
 Banner by <a href="https://unsplash.com/@thainos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Em Thain</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-bush-with-leaves-and-flowers-SnoUxdmw7cY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </p>
-
+<div>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=earlwyl.earlwyl" />
+</div>
   
 
