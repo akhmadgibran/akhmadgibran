@@ -35,7 +35,7 @@ You can call me Wylie or Nabil!
 <h2 align="center"> Stats </h2>
 <div align=center>
   
-[![Top Langs](https://github-readme-stats-inky-five-57.vercel.app//api/top-langs/?username=earlwyl&layout=compact&theme=radical)](https://github.com/earlwyl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earlwyl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
