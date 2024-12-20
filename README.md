@@ -14,7 +14,7 @@ You can call me Wylie or Nabil or Lieh!
 
 - 🌱 I’m currently learning to become Full-Stack Web Developer
 - 💬 Ask me about Code, Games, and Manga
-- 📫 How to reach me: earlwylie(Discord), earlwyl@gmail.com(email), earlcodes(x)
+- 📫 How to reach me: earlwyl@gmail.com or earlwylie on discord or you can click my x profile below!
 
 <br/>
 <div align="center"> 
