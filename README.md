@@ -1,6 +1,6 @@
 
 
-![earlwyl banner](./img/banner.png)
+![akhmadgibran banner](./img/banner.png)
 
 
 
