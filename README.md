@@ -10,7 +10,7 @@
 
 <h2 > Hi there 👋 </h2>
 
-You can call me Wylie or Nabil, a developer based in Indonesia.
+Call me <a href='https://linkedin.com/in/akhmadnabilgibran/' >Wylie or Nabil</a>, a developer based in Indonesia.
 
 I’m currently learning to become a Full-Stack Web Developer, and doing my best at coding a codebase that follow the best practice in industry. I have goal to build scalable, structured, optimized, and efficient projects.
 
