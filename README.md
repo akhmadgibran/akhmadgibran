@@ -26,7 +26,7 @@ Side Notes :
 
 
 <h2 align="center"> 
-  <a href="https://x.com/wyliecodes">
+  <a href="https://x.com/nabilcodes">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> 
   </a> 
 </h2>
