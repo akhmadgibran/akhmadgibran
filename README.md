@@ -12,7 +12,7 @@
 
 You can call me Wylie or Nabil, a developer based in Indonesia.
 
-I’m currently learning to become Full-Stack Web Developer, and doing my best at coding a codebase that follow the best practice in industry. I have goal to build scalable, structured, optimized, and efficient projects.
+I’m currently learning to become a Full-Stack Web Developer, and doing my best at coding a codebase that follow the best practice in industry. I have goal to build scalable, structured, optimized, and efficient projects.
 
 I love exploring and honing my skills, and working on various side project.
 
