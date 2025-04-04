@@ -17,22 +17,15 @@ You can call me Wylie, Lieh, Nabil or Akhmad !
 - 📫 How to reach me: akhmadnabil.business@gmail.com or earlwylie on discord or you can click my x profile below!
 
 <br/>
-<div align="center"> 
+
+
+
+
+<h2 align="center"> 
   <a href="https://x.com/wyliecodes">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> 
-  </a>
-</div>
-
-<h2 align="center"> Languages-Frameworks-Tools </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,go" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nodejs,express,react,nextjs,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
-</div>
-
-<h2 align="center"> Stats </h2>
+  </a> 
+</h2>
 <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadgibran&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
