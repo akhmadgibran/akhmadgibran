@@ -12,7 +12,7 @@
 
 Call me <a href='https://linkedin.com/in/akhmadnabilgibran/' >Wylie or Nabil</a>, a developer based in Indonesia.
 
-I’m currently learning to become a Full-Stack Web Developer, and doing my best at coding a codebase that follow the best practice in industry. I have goal to build scalable, structured, optimized, and efficient projects.
+I’m an Full-Stack Web Developer with DevOps, and doing my best at coding a codebase that follow the best practice in industry. I have goal to build scalable, structured, optimized, efficient projects and infrastructure.
 
 I love exploring and honing my skills, and working on various side project.
 
@@ -32,7 +32,6 @@ Side Notes :
 </h2>
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadgibran&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
