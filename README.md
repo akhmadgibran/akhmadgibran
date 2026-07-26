@@ -21,16 +21,13 @@ Side Notes :
 - Chill games is my type of game.
 - I love food
 
-
+<a href="https://nabilbuilds.my.id/">My Website</a>
 
 
 
 <h2 align="center"> 
   <a href="https://x.com/nabilplayground">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> 
-  </a> 
-  <a href="https://nabilbuilds.my.id/">
-     Website
   </a> 
 </h2>
 <div align=center>
