@@ -23,6 +23,7 @@ Side Notes :
 
 Links :
 - My website https://nabilbuilds.my.id/
+- LinkedIn https://www.linkedin.com/in/akhmadnabilgibran/
 
 
 
