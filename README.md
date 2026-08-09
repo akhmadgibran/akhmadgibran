@@ -16,7 +16,7 @@ When I'm not coding, I love exploring new technologies and honing my skills thro
 
 ### 🛠️ Tech Stack & Tools
 * **Frontend:** React, HTML/CSS, Blade
-* **Backend:** Node.js, Go
+* **Backend:** Node.js, Go, PHP (Laravel)
 * **DevOps:** Docker, Podman, Kubernetes, GitHub Actions
 
 ### 📌 A Note on My Repositories
