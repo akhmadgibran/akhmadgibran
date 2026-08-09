@@ -17,6 +17,7 @@ I’m an Full-Stack Web Developer with DevOps, and doing my best at coding a cod
 I love exploring and honing my skills, and working on various side project.
 
 Side Notes :
+- Almost all of my repository is private for security reason, kindly contact me if you are having a stake in that
 - Orther than tech related things, i also like to learn histories.
 - Chill games is my type of game.
 - I love food
