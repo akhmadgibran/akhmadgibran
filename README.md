@@ -8,23 +8,27 @@
 
 
 
-<h2 > Hi there 👋 </h2>
+# Hi there, I'm Nabil 👋
 
-Call me <a href='https://linkedin.com/in/akhmadnabilgibran/' >Wylie or Nabil</a>, a developer based in Indonesia.
+I am a **Full-Stack Web Developer** with a strong focus on **DevOps** and **Server**, based in Indonesia. I specialize in building scalable, structured, and efficient infrastructure, always striving to write clean code that follows industry best practices. 
 
-I’m an Full-Stack Web Developer with DevOps, and doing my best at coding a codebase that follow the best practice in industry. I have goal to build scalable, structured, optimized, efficient projects and infrastructure.
+When I'm not coding, I love exploring new technologies and honing my skills through various side projects.
 
-I love exploring and honing my skills, and working on various side project.
+### 🛠️ Tech Stack & Tools
+* **Frontend:** React, HTML/CSS, Blade
+* **Backend:** Node.js, Go
+* **DevOps:** Docker, Podman, Kubernetes, GitHub Actions
 
-Side Notes :
-- Almost all of my repository is private for security reason, kindly contact me if you are having a stake in that
-- Orther than tech related things, i also like to learn histories.
-- Chill games is my type of game.
-- I love food
+### 📌 A Note on My Repositories
+The majority of my repositories are currently private for security reasons and client confidentiality. To see examples of my work, architecture, and live projects, please visit my portfolio website!
 
-Links :
-- My website https://nabilbuilds.my.id/
-- LinkedIn https://www.linkedin.com/in/akhmadnabilgibran/
+### 📬 Let's Connect
+* 🌐 **Website:** [nabilbuilds.my.id](https://nabilbuilds.my.id/)
+* 💼 **LinkedIn:** [akhmadnabilgibran](https://www.linkedin.com/in/akhmadnabilgibran/)
+* 📭 **Email:** hello.akhmadnabilgibran@gmail.com
+
+---
+*Side note: When I'm stepping away from the keyboard, I enjoy diving into history, trying out new food, and playing relaxing video games.*
 
 
 
