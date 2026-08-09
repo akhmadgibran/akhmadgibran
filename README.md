@@ -15,7 +15,7 @@ I am a **Full-Stack Web Developer** with a strong focus on **DevOps** and **Serv
 When I'm not coding, I love exploring new technologies and honing my skills through various side projects.
 
 ### 🛠️ Tech Stack & Tools
-* **Frontend:** React, HTML/CSS, Blade
+* **Frontend:** React, HTML/CSS, Blade (Laravel)
 * **Backend:** Node.js, Go, PHP (Laravel)
 * **DevOps:** Docker, Podman, Kubernetes, GitHub Actions
 
