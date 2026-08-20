@@ -10,7 +10,7 @@
 
 # Hi there, I'm Nabil 👋
 
-I am a **Full-Stack Web Developer** with a strong focus on **DevOps** and **Server**, based in Indonesia. I specialize in building scalable, structured, and efficient infrastructure, always striving to write clean code that follows industry best practices. 
+I am a **Backend Developer** with a strong focus on **DevOps**, based in Indonesia. I specialize in building scalable, structured, and efficient infrastructure, always striving to write clean code that follows industry best practices. 
 
 When I'm not coding, I love exploring new technologies and honing my skills through various side projects.
 
