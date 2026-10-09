@@ -20,7 +20,7 @@ When I'm not coding, I love exploring new technologies and honing my skills thro
 * **DevOps:** Docker, Podman, Kubernetes, GitHub Actions
 
 ### 📌 A Note on My Repositories
-The majority of my repositories are currently private for security reasons and client confidentiality. To see examples of my work, architecture, and live projects, please visit my portfolio website!
+The majority of my repositories are currently private or self-hosted for security reasons and client confidentiality. To see examples of my work, architecture, and live projects, please visit my portfolio website!
 
 ### 📬 Let's Connect
 * 🌐 **Website:** [nabilbuilds.my.id](https://nabilbuilds.my.id/)
